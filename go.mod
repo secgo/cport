@@ -1,4 +1,4 @@
-module github.com/secgo/checkMyPort
+module github.com/secgo/cport
 
 go 1.17
 
